@@ -1,0 +1,9 @@
+com.Sleeping_Studio.ThreeDRunner.launcher-pngs-0 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.Sleeping_Studio.ThreeDRunner.launcher-resValues-1 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.Sleeping_Studio.ThreeDRunner.launcher-rs-2 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.Sleeping_Studio.ThreeDRunner.launcher-mergeReleaseResources-3 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.Sleeping_Studio.ThreeDRunner.launcher-mergeReleaseResources-4 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.Sleeping_Studio.ThreeDRunner.launcher-merged_res-5 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.Sleeping_Studio.ThreeDRunner.launcher-main-6 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.Sleeping_Studio.ThreeDRunner.launcher-release-7 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.Sleeping_Studio.ThreeDRunner.launcher-packaged_res-8 D:\Unity\3D Runner\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
